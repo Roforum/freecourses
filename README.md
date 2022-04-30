@@ -14,3 +14,19 @@ The latest video courses that can help you get better at finding a job.
 <a href="https://favoritecourse.one/the-ultimate-ebay-dropshipping-course">
             The Ultimate eBay Dropshipping Course        </a>
 </p>
+<p>
+<a href="https://favoritecourse.one/zerotomastery-web3-masterclass-blockchain-dapps-daos-more">
+            ZeroToMastery – Web3 Masterclass: Blockchain, DApps, DAOs...        </a>
+</p>
+<p>
+<a href="https://favoritecourse.one/complete-nextjs-developer-in-2022-zero-to-mastery">
+            Complete Next.js Developer in 2022: Zero to Mastery        </a>
+</p>
+<p>
+<a href="https://favoritecourse.one/daniel-negreanu-teaches-poker-free-online-courses">
+            Daniel Negreanu Teaches Poker - Free online courses        </a>
+</p>
+<p>
+<a href="https://favoritecourse.one/build-real-android-apps-android-11-app-development-java">
+            Build Real Android Apps Android 11 App Development Java        </a>
+</p>
