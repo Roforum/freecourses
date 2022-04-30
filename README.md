@@ -54,6 +54,10 @@ The latest video courses that can help you get better at finding a job.
 <a href="https://favoritecourse.one/the-advanced-cryptocurrency-trading-course-with-strategies">
             The Advanced Cryptocurrency Trading Course - With Strategies        </a>
 </p>
+
+<p>
+            If you have a request for a video course, please contact us.
+            </p>
 <p>
 <a href="https://favoritecourse.one/posts">
             Check for more free video course        </a>
